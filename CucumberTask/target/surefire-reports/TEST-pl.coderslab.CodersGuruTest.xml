@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="30" failures="0" name="pl.coderslab.CodersGuruTest" time="0.312" errors="2" skipped="13">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="10.0.1+10"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/Gosia/Desktop/cuc/CucumberTask"/>
+    <property name="java.vm.vendor" value="&quot;Oracle Corporation&quot;"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="user.country" value="PL"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/Users/Gosia/Desktop/cuc/CucumberTask"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="10.0.1+10"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.io.tmpdir" value="/var/folders/07/pwss_zm91wj4_jgd2wg3608c0000gn/T/"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="classworlds.conf" value="/usr/local/Cellar/maven/3.5.3/libexec/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/Users/Gosia/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="maven.conf" value="/usr/local/Cellar/maven/3.5.3/libexec/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="54.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.12.6"/>
+    <property name="library.jansi.path" value="/usr/local/Cellar/maven/3.5.3/libexec/lib/jansi-native"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="user.home" value="/Users/Gosia"/>
+    <property name="user.timezone" value="Europe/Amsterdam"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="10"/>
+    <property name="user.name" value="Gosia"/>
+    <property name="java.class.path" value="/usr/local/Cellar/maven/3.5.3/libexec/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="10"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher test"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="10.0.1"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/usr/local/Cellar/maven/3.5.3/libexec"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.version.date" value="2018-04-17"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.3"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="Given user is on main page of Coders Guru" time="0.003"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="When user click on the new registration button" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input e-mail into e-mail field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input Michal into first name field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input Lowicz into last name field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input qwerty into password field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input qwerty into repeat password field" time="0.001"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input Wroclaw into city field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input 45-221 into zip code field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input Prosta into street field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user input 12 into number house field" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And user checks checkbox to accept the regulations" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="Then user clicks on the registration button" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="And close the browser" time="0"/>
+  <testcase classname="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" name="| Michal | Lowicz | qwerty | Wroclaw | 45-221 | Prosta | 12 |" time="0.002"/>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="Given user is on main page of Coders Guru" time="0.009">
+    <error message="[Exception... &quot;Failure&quot;  nsresult: &quot;0x80004005 (NS_ERROR_FAILURE)&quot;  location: &quot;JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt; :: line 3029&quot;  data: no]
+Build info: version: &apos;3.13.0&apos;, revision: &apos;2f0d292&apos;, time: &apos;2018-06-25T15:24:21.231Z&apos;
+System info: host: &apos;MacBook-Pro.local&apos;, ip: &apos;fe80:0:0:0:43:cc46:4e76:7468%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.12.6&apos;, java.version: &apos;10.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 8420, moz:profile: /var/folders/07/pwss_zm91wj..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 7a6d0dd4-4c91-ee4e-96d4-e43b83be654b" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: [Exception... &quot;Failure&quot;  nsresult: &quot;0x80004005 (NS_ERROR_FAILURE)&quot;  location: &quot;JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt; :: line 3029&quot;  data: no]
+Build info: version: &apos;3.13.0&apos;, revision: &apos;2f0d292&apos;, time: &apos;2018-06-25T15:24:21.231Z&apos;
+System info: host: &apos;MacBook-Pro.local&apos;, ip: &apos;fe80:0:0:0:43:cc46:4e76:7468%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.12.6&apos;, java.version: &apos;10.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 8420, moz:profile: /var/folders/07/pwss_zm91wj..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 7a6d0dd4-4c91-ee4e-96d4-e43b83be654b
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:833)
+	at pl.coderslab.CodersGuru.userIsOnMainPageOfCodersGuru(CodersGuru.java:22)
+	at ✽.Given user is on main page of Coders Guru(coders-guru-formule.feature:5)
+</error>
+    <system-out>
+  Scenario Outline: user can register in Coders Guru   &amp;#27;[90m# coders-guru-formule.feature:21&amp;#27;[0m
+    &amp;#27;[32mGiven &amp;#27;[0m&amp;#27;[32muser is on main page of &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mCoders Guru&amp;#27;[0m          &amp;#27;[90m# CodersGuru.userIsOnMainPageOfCodersGuru(String)&amp;#27;[0m
+    &amp;#27;[32mWhen &amp;#27;[0m&amp;#27;[32muser click on the new registration button&amp;#27;[0m     &amp;#27;[90m# CodersGuru.userClickOnTheNewRegistrationButton()&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1me-mail&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1me-mail&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m            &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mMichal&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mfirst name&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m        &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mLowicz&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mlast name&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m         &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mqwerty&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mpassword&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m          &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mqwerty&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mrepeat password&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m   &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mWroclaw&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mcity&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m             &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1m45-221&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mzip code&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m          &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mProsta&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mstreet&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m            &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser input &amp;#27;[0m&amp;#27;[32m&amp;#27;[1m12&amp;#27;[0m&amp;#27;[32m into &amp;#27;[0m&amp;#27;[32m&amp;#27;[1mnumber house&amp;#27;[0m&amp;#27;[32m field&amp;#27;[0m          &amp;#27;[90m# CodersGuru.userInputEmailIntoEMailField(String,String)&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32muser checks checkbox to accept the regulations&amp;#27;[0m &amp;#27;[90m# CodersGuru.userCheckCheckboxToAcceptTheRegulations()&amp;#27;[0m
+    &amp;#27;[32mThen &amp;#27;[0m&amp;#27;[32muser clicks on the registration button&amp;#27;[0m        &amp;#27;[90m# CodersGuru.userClickOnTheRegistrationButton()&amp;#27;[0m
+    &amp;#27;[32mAnd &amp;#27;[0m&amp;#27;[32mclose the browser&amp;#27;[0m                              &amp;#27;[90m# CodersGuru.closeTheBrowser()&amp;#27;[0m
+</system-out>
+    <system-err>1535924421127	geckodriver	INFO	geckodriver 0.21.0
+1535924421152	geckodriver	INFO	Listening on 127.0.0.1:15284
+1535924421163	mozrunner::runner	INFO	Running command: &quot;/Applications/Firefox.app/Contents/MacOS/firefox-bin&quot; &quot;-marionette&quot; &quot;-foreground&quot; &quot;-no-remote&quot; &quot;-profile&quot; &quot;/var/folders/07/pwss_zm91wj4_jgd2wg3608c0000gn/T/rust_mozprofile.VX3jISrnolmH&quot;
+2018-09-02 23:40:22.615 plugin-container[8421:244029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) &apos;Permission denied&apos;, port = 0x9837, name = &apos;com.apple.tsm.portname&apos;
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-09-02 23:40:22.878 plugin-container[8422:244053] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) &apos;Permission denied&apos;, port = 0x9637, name = &apos;com.apple.tsm.portname&apos;
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1535924423237	Marionette	INFO	Listening on port 60909
+1535924423322	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sep 02, 2018 11:40:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+2018-09-02 23:40:23.650 plugin-container[8424:244165] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) &apos;Permission denied&apos;, port = 0x9337, name = &apos;com.apple.tsm.portname&apos;
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+Marionette threw an error: [Exception... &quot;Failure&quot;  nsresult: &quot;0x80004005 (NS_ERROR_FAILURE)&quot;  location: &quot;JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt; :: line 3029&quot;  data: no]
+GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt;@chrome://marionette/content/driver.js:3029:9
+evalFn@chrome://marionette/content/sync.js:97:7
+
+</system-err>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" time="0.011">
+    <error message="[Exception... &quot;Failure&quot;  nsresult: &quot;0x80004005 (NS_ERROR_FAILURE)&quot;  location: &quot;JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt; :: line 3029&quot;  data: no]
+Build info: version: &apos;3.13.0&apos;, revision: &apos;2f0d292&apos;, time: &apos;2018-06-25T15:24:21.231Z&apos;
+System info: host: &apos;MacBook-Pro.local&apos;, ip: &apos;fe80:0:0:0:43:cc46:4e76:7468%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.12.6&apos;, java.version: &apos;10.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 8420, moz:profile: /var/folders/07/pwss_zm91wj..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 7a6d0dd4-4c91-ee4e-96d4-e43b83be654b" type="org.openqa.selenium.WebDriverException">org.openqa.selenium.WebDriverException: [Exception... &quot;Failure&quot;  nsresult: &quot;0x80004005 (NS_ERROR_FAILURE)&quot;  location: &quot;JS frame :: chrome://marionette/content/driver.js :: GeckoDriver.prototype.maximizeWindow/windowSizeChange/&lt; :: line 3029&quot;  data: no]
+Build info: version: &apos;3.13.0&apos;, revision: &apos;2f0d292&apos;, time: &apos;2018-06-25T15:24:21.231Z&apos;
+System info: host: &apos;MacBook-Pro.local&apos;, ip: &apos;fe80:0:0:0:43:cc46:4e76:7468%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.12.6&apos;, java.version: &apos;10.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 8420, moz:profile: /var/folders/07/pwss_zm91wj..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 16.7.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 7a6d0dd4-4c91-ee4e-96d4-e43b83be654b
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:605)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteWebDriverOptions$RemoteWindow.maximize(RemoteWebDriver.java:833)
+	at pl.coderslab.CodersGuru.userIsOnMainPageOfCodersGuru(CodersGuru.java:22)
+	at ✽.Given user is on main page of Coders Guru(coders-guru-formule.feature:5)
+</error>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="When user click on the new registration button" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input e-mail into e-mail field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input Jan into first name field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input Nowak into last name field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input dfghj into password field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input dfghj into repeat password field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input Warszawa into city field" time="0.02">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input 78-212 into zip code field" time="0.022">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input Krzywa into street field" time="0.023">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user input 24 into number house field" time="0.025">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And user checks checkbox to accept the regulations" time="0.025">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="Then user clicks on the registration button" time="0.025">
+    <skipped/>
+  </testcase>
+  <testcase classname="| Jan | Nowak | dfghj | Warszawa | 78-212 | Krzywa | 24 |" name="And close the browser" time="0.026">
+    <skipped/>
+  </testcase>
+</testsuite>
